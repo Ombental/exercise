@@ -1,1 +1,1 @@
-newtextforfile
+conflict!
